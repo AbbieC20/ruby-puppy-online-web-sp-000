@@ -25,6 +25,5 @@ class Dog
 
 end
 
-# dog_list = []
 
 # return dog_list
