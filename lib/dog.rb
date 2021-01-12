@@ -18,7 +18,7 @@ class Dog
     @@all.each do |dog_name|
       dog_list << dog_name
     end
-    puts dog_list
+    return dog_list
   end
 
 end
