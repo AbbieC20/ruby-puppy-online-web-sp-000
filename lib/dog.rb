@@ -21,4 +21,8 @@ class Dog
     return dog_list
   end
 
+  def self.clear_all
+    @@all.clear
+  end
+
 end
